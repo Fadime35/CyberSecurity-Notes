@@ -22,7 +22,7 @@ Ama bu bilgilere dışarıdan bir kişinin ulaşması gizlilik ihlalidir.
 
 ---
 
-## 2. Bütünlük(Integrity)
+## 2. Bütünlük (Integrity)
 
 Bilginin doğru, eksiksiz ve yetkisiz değişikliklerden korunmuş olmasıdır.
 
