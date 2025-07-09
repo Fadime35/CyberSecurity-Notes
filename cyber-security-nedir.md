@@ -7,7 +7,7 @@ Amaç, bilgi gizliliği, bütünlüğü ve erişilebilirliğini sağlamaktır.
 
 # Bilgi Güvenliği İlkeleri
 
-## 1. Gizlilik (Confidentiality)
+## 1. Gizlilik 
 
 Bilginin yalnızca yetkili kişiler veya sistemler tarafından erişilebilir olmasıdır.
 
@@ -23,7 +23,7 @@ Ama bu bilgilere dışarıdan bir kişinin ulaşması gizlilik ihlalidir.
 
 ---
 
-## 2. Bütünlük (Integrity)
+## 2. Bütünlük
 
 Bilginin doğru, eksiksiz ve yetkisiz değişikliklerden korunmuş olmasıdır.
 
@@ -34,7 +34,7 @@ Bilginin doğru, eksiksiz ve yetkisiz değişikliklerden korunmuş olmasıdır.
 
 ---
 
-## 3. Erişilebilirlik (Availability)
+## 3. Erişilebilirlik
 
 Bilgi ve sistemlerin, ihtiyaç duyulduğunda yetkili kullanıcılar tarafından erişilebilir olmasıdır.
 
