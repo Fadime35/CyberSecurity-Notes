@@ -1,7 +1,6 @@
 #  Siber Güvenlik Nedir?
 
-Siber güvenlik, bilgisayar sistemleri, ağlar, programlar ve verilerin  yetkisiz erişim, saldırı, zarar veya hırsızlıktan korunmasıdır.  
-Amaç, bilgi gizliliği, bütünlüğü ve erişilebilirliğini sağlamaktır.
+Siber güvenlik, bilgisayar sistemleri, ağlar, programlar ve verilerin yetkisiz erişim, saldırı, zarar veya hırsızlıktan korunmasıdır. Amaç, bilgi gizliliği, bütünlüğü ve erişilebilirliğini sağlamaktır.
 
 ---
 
