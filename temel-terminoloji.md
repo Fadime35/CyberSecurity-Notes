@@ -12,8 +12,8 @@
 
 | Kavram      | Tanım                                                                 |
 |-------------|------------------------------------------------------------------------|
-| **Tehdit**  | Sisteme zarar verebilecek her şey (Örnek: hacker, kötü amaçlı yazılım) |
-| **Zafiyet** | Sistemdeki güvenlik açığı (Örnek: güncellenmemiş yazılım)              |
+| **Tehdit**  | Sisteme zarar verebilecek her şey (hacker, kötü amaçlı yazılım) |
+| **Zafiyet** | Sistemdeki güvenlik açığı (güncellenmemiş yazılım)              |
 | **Risk**    | Tehdidin bir zafiyeti kullanarak zarara yol açma olasılığı ve etkisi   |
 
 **Formül gibi düşünün:**  
