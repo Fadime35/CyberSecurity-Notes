@@ -6,7 +6,7 @@ Siber güvenlik, bilgisayar sistemleri, ağlar, programlar ve verilerin yetkisiz
 
 # Bilgi Güvenliği İlkeleri
 
-## 1. Gizlilik 
+## 1. Gizlilik (Confidentiality)
 
 Bilginin yalnızca yetkili kişiler veya sistemler tarafından erişilebilir olmasıdır.
 
@@ -22,7 +22,7 @@ Ama bu bilgilere dışarıdan bir kişinin ulaşması gizlilik ihlalidir.
 
 ---
 
-## 2. Bütünlük
+## 2. Bütünlük(Integrity)
 
 Bilginin doğru, eksiksiz ve yetkisiz değişikliklerden korunmuş olmasıdır.
 
@@ -33,7 +33,7 @@ Bilginin doğru, eksiksiz ve yetkisiz değişikliklerden korunmuş olmasıdır.
 
 ---
 
-## 3. Erişilebilirlik
+## 3. Erişilebilirlik (Availability)
 
 Bilgi ve sistemlerin, ihtiyaç duyulduğunda yetkili kullanıcılar tarafından erişilebilir olmasıdır.
 
