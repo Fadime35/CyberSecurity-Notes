@@ -8,11 +8,11 @@
 
 ---
 
-# ⚖️ Risk, Tehdit ve Zafiyet Arasındaki Farklar
+# Risk, Tehdit ve Zafiyet Arasındaki Farklar
 
 | Kavram      | Tanım                                                                 |
 |-------------|------------------------------------------------------------------------|
-| **Tehdit**  | Sisteme zarar verebilecek her şey (Örnek:: hacker, kötü amaçlı yazılım) |
+| **Tehdit**  | Sisteme zarar verebilecek her şey (Örnek: hacker, kötü amaçlı yazılım) |
 | **Zafiyet** | Sistemdeki güvenlik açığı (Örnek: güncellenmemiş yazılım)              |
 | **Risk**    | Tehdidin bir zafiyeti kullanarak zarara yol açma olasılığı ve etkisi   |
 
