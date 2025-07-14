@@ -7,7 +7,7 @@ IP adresi bilgisayarların internette nerede olduğunu gösterir.
 
 ## IP Adresinin Temel Özellikleri
 
-- **Sayısal bir adrestir (192.168.1.1).
+- Sayısal bir adrestir (192.168.1.1).
 - Her cihazın  **benzersiz** bir IP adresi vardır.
 - IP adresleri, **veri paketlerinin doğru hedefe ulaşmasını** sağlar.
 - İnternette iletişim için zorunludur.
