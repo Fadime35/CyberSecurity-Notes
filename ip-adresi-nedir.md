@@ -17,7 +17,7 @@ IP adresi bilgisayarların internette nerede olduğunu gösterir.
 ## IP Adresi Türleri
 
 
-### 🔹 IPv4 (Internet Protocol version 4)
+### IPv4 (Internet Protocol version 4)
 
 - **32 bit** uzunluğundadır.  
 - Adresler, **nokta ile ayrılmış dört sayı**dan oluşur. Her sayı **0 ile 255** arasında değişir.  
@@ -27,7 +27,7 @@ IP adresi bilgisayarların internette nerede olduğunu gösterir.
 
 > **Not:** Cihaz sayısının hızla artması nedeniyle IPv4 adresleri zamanla yetersiz kalmaya başlamıştır.
 
-### 🔹 IPv6 (Internet Protocol version 6)
+### IPv6 (Internet Protocol version 6)
 
 - **128 bit** uzunluğundadır.  
 - IPv4’ün yetersiz kalmasıyla birlikte geliştirilmiştir.  
