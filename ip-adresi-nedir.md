@@ -9,7 +9,6 @@ IP adresi bilgisayarların internette nerede olduğunu gösterir.
 
 - Mantıksal bir adrestir.
 - Kolayca değiştirilebilir.
-- Her cihazın  **benzersiz** bir IP adresi vardır.
 - IP adresleri, **veri paketlerinin doğru hedefe ulaşmasını** sağlar.
 - İnternette iletişim için zorunludur.
 
