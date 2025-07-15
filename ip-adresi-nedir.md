@@ -48,5 +48,49 @@ IP adresi bilgisayarların internette nerede olduğunu gösterir.
 
 > **Not:** IP adresleri dinamik (değişken) veya statik (sabit) olabilir. Dinamik IP adresleri, internete bağlandıkça değişirken, statik IP adresleri sabit kalır.
 
+## Dinamik ve Statik IP Adresleri
+
+- **Dinamik IP Adresi:**  
+  - Geçici ve değişebilen IP adresidir.
+  - Cihaza otomatik olarak atanır (modem/DHCP ile).  
+  - İnternet Servis Sağlayıcısı (ISS) tarafından geçici olarak verilir.  
+  - Ev kullanıcıları genellikle dinamik IP kullanır.
+  - Yönetimi kolaydır, IP tasarrufu sağlar.
+
+- **Statik IP Adresi:**  
+  - Manuel olarak ayarlanır ve değişmez.  
+  - Web sunucuları, güvenlik kameraları gibi sürekli erişim gereken sistemlerde kullanılır.  
+  - Erişimi sabit tutmak için idealdir.
+ 
+  > **Not**: Statik IP'ler güvenlik açısından daha fazla dikkat ister, çünkü IP sabit kaldığı için dış tehditlere hedef olma ihtimali artabilir.
+
+---
+ 
+ ## İç IP ve Dış IP Nedir?
+
+###  İç IP (Private IP)
+- Cihazlara yerel ağ (LAN) içinde atanır.  
+- Yalnızca aynı yerel ağdaki cihazlar arasında iletişim için kullanılır.  
+- Modem, bilgisayar, yazıcı gibi cihazlar bu IP ile haberleşir.  
+- İnternete doğrudan çıkış yapamaz.
+
+**Örnek iç IP adresleri**: 192.168.0.12, 10.10.1.5, 172.16.5.100
+
+###  Dış IP (Public IP)
+- Cihazların veya ağların internet üzerindeki adresidir.  
+- İnternet Servis Sağlayıcısı (ISS) tarafından atanır.  
+- Diğer ağlar ve internet ile doğrudan iletişim kurmayı sağlar.  
+- Herkese açık bir adrestir.
+
+**Örnek dış IP adresleri**: 85.110.245.13, 213.74.128.9, 195.142.0.1
+
+> **NOT**:
+- Eğer IP adresi `10.x.x.x`, `172.16.x.x – 172.31.x.x`, veya `192.168.x.x` ile başlıyorsa: **İç IP’dir.**
+- Bu aralıkların dışında kalan her IP: **Dış IP’dir.**
+
+
+
+
+
 
 
