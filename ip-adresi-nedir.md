@@ -83,7 +83,7 @@ IP adresi bilgisayarların internette nerede olduğunu gösterir.
 - Diğer ağlar ve internet ile doğrudan iletişim kurmayı sağlar.  
 - Herkese açık bir adrestir.
 
-**Örnek dış IP adresleri**: `85.110.245.13` 
+**Örnek dış IP adresi**: `85.110.245.13` 
 
 ---
 > **NOT**:
