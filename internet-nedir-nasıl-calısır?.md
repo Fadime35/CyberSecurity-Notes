@@ -1,10 +1,10 @@
-# İnternet Nedir? 🌐
+# İnternet Nedir? 
 
 **İnternet**, bilgisayarlar ve diğer cihazlar arasında veri alışverişini sağlayan dev bir iletişim ağıdır.
 
 ---
 
-# İnternet Nasıl Çalışır? ⚙️
+# İnternet Nasıl Çalışır? 
 
 1. Kullanıcı tarayıcıya bir web adresi (URL) yazar.  
 2. Bu adres, **DNS** aracılığıyla IP adresine çevrilir.  
