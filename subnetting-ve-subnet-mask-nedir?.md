@@ -1,10 +1,6 @@
-# Subnetting ve Subnet Maskesi Nedir?
-
 ## Subnetting Nedir?
 
 **Subnetting**, büyük bir IP ağını daha küçük alt ağlara (subnet) bölme işlemidir.
-
-## Subnetting’in Faydaları
 
 - Ağ trafiğini azaltır.  
 - Ağ yönetimini kolaylaştırır.  
