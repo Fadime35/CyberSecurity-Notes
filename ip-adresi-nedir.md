@@ -63,7 +63,7 @@ IP adresi bilgisayarların internette nerede olduğunu gösterir.
   - Erişimi sabit tutmak için idealdir.
     
  
-  > **Not**: Statik IP'ler güvenlik açısından daha fazla dikkat ister, çünkü IP sabit kaldığı için dış tehditlere hedef olma ihtimali artabilir.
+  > **Not:** Statik IP'ler güvenlik açısından daha fazla dikkat ister, çünkü IP sabit kaldığı için dış tehditlere hedef olma ihtimali artabilir.
 
 ---
  
