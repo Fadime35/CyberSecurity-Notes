@@ -1,6 +1,6 @@
 # IP Adresi Nedir?
 
-**Ip Adresi**,bir cihazın internette veya yerel ağda tanımlanmasını sağlayan sayısal bir adrestir.Bu adres, cihazların birbirleriyle iletişim kurmasını sağlar. 
+**Ip Adresi** ,bir cihazın internette veya yerel ağda tanımlanmasını sağlayan sayısal bir adrestir.Bu adres, cihazların birbirleriyle iletişim kurmasını sağlar. 
 IP adresi bilgisayarların internette nerede olduğunu gösterir.
 
 ---
