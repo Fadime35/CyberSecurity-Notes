@@ -2,7 +2,7 @@
 
 **Ip Adresi** ,bir cihazın internette veya yerel ağda tanımlanmasını sağlayan sayısal bir adrestir.Bu adres, cihazların birbirleriyle iletişim kurmasını sağlar. 
 IP adresi bilgisayarların internette nerede olduğunu gösterir.
-- **Örnek**:192.168.1.1
+- **Örnek bir IP adresi**:192.168.1.1
 ---
 
 ## IP Adresinin Temel Özellikleri
