@@ -24,8 +24,6 @@ Subnetting işlemini göstermek ve uygulamak için kullanılır.
 
 ---
 
-# CIDR Notasyonu Nedir?
-
 **CIDR (Classless Inter-Domain Routing)**, IP adreslerini ve subnet maskelerini daha esnek ve verimli şekilde gösterme yöntemidir.  
 
 - IP adresinin sonuna `/` işareti ve ağda kullanılan bit sayısı eklenir.  
