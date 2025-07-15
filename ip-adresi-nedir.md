@@ -75,7 +75,7 @@ IP adresi bilgisayarların internette nerede olduğunu gösterir.
 - Modem, bilgisayar, yazıcı gibi cihazlar bu IP ile haberleşir.  
 - İnternete doğrudan çıkış yapamaz.
 
-**Örnek iç IP adresleri**: '192.168.0.12', '10.10.1.5', '172.16.5.100'
+ **Örnek iç IP adresi**: `192.168.0.12` 
 
 ###  Dış IP (Public IP)
 - Cihazların veya ağların internet üzerindeki adresidir.  
@@ -83,7 +83,7 @@ IP adresi bilgisayarların internette nerede olduğunu gösterir.
 - Diğer ağlar ve internet ile doğrudan iletişim kurmayı sağlar.  
 - Herkese açık bir adrestir.
 
-** Örnek dış IP adresleri**: '85.110.245.13', '213.74.128.9', '195.142.0.1'
+**Örnek dış IP adresleri**: `85.110.245.13` 
 
 ---
 > **NOT**:
