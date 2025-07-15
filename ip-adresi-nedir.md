@@ -61,12 +61,12 @@ IP adresi bilgisayarların internette nerede olduğunu gösterir.
   - Manuel olarak ayarlanır ve değişmez.  
   - Web sunucuları, güvenlik kameraları gibi sürekli erişim gereken sistemlerde kullanılır.  
   - Erişimi sabit tutmak için idealdir.
-    
+
+ ---   
  
   > **Not:** Statik IP'ler güvenlik açısından daha fazla dikkat ister, çünkü IP sabit kaldığı için dış tehditlere hedef olma ihtimali artabilir.
 
----
- 
+
  ## İç IP ve Dış IP Nedir?
 
 ###  İç IP (Private IP)
