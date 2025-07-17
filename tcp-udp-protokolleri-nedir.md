@@ -7,7 +7,7 @@
 - Ağ trafiği daha fazladır ancak veri kaybı riski düşüktür.
 - Yavaş ama **güvenilir** iletişim sağlar.
 
-🧰 **TCP Kullanım Alanları:**
+ **TCP Kullanım Alanları:**
 - Web tarayıcıları (HTTP/HTTPS)
 - E-posta (SMTP, IMAP, POP3)
 - Dosya transferi (FTP)
@@ -20,7 +20,7 @@
 - Hızlıdır ama veri kaybı yaşanabilir.
 - Sıra garantisi yoktur, paketler kaybolabilir veya karışabilir.
 
-⚡ **UDP Kullanım Alanları:**
+ **UDP Kullanım Alanları:**
 - Gerçek zamanlı uygulamalar (video konferans, online oyunlar)
 - DNS sorguları
 - Canlı yayın servisleri
