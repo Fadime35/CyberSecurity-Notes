@@ -2,8 +2,8 @@
 
 ## OSI (Open Systems Interconnection) Modeli
 
--OSI modeli, ağ iletişimini 7 katmanda tanımlar. Her katman, belirli bir işlevi yerine getirir. 
--Teorik ve öğretici bir modeldir.
+- OSI modeli, ağ iletişimini 7 katmanda tanımlar. Her katman, belirli bir işlevi yerine getirir. 
+- Teorik ve öğretici bir modeldir.
 
 | Katman No | Katman Adı            | Görevi                                                                 |
 |-----------|------------------------|------------------------------------------------------------------------|
@@ -19,8 +19,8 @@
 
 ## TCP/IP Modeli
 
--TCP/IP modeli, internetin gerçek işleyişini açıklayan 4 katmanlı bir modeldir.
--OSI modelinden daha sadedir.
+- TCP/IP modeli, internetin gerçek işleyişini açıklayan 4 katmanlı bir modeldir.
+- OSI modelinden daha sadedir.
 - **En yaygın** kullanılan modeldir.
 
 
