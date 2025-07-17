@@ -2,7 +2,8 @@
 
 ## OSI (Open Systems Interconnection) Modeli
 
-OSI modeli, ağ iletişimini 7 katmanda tanımlar. Her katman, belirli bir işlevi yerine getirir.
+-OSI modeli, ağ iletişimini 7 katmanda tanımlar. Her katman, belirli bir işlevi yerine getirir. 
+-Teorik ve öğretici bir modeldir.
 
 | Katman No | Katman Adı            | Görevi                                                                 |
 |-----------|------------------------|------------------------------------------------------------------------|
@@ -18,7 +19,10 @@ OSI modeli, ağ iletişimini 7 katmanda tanımlar. Her katman, belirli bir işle
 
 ## TCP/IP Modeli
 
-TCP/IP modeli, internetin gerçek işleyişini açıklayan 4 katmanlı bir modeldir.
+-TCP/IP modeli, internetin gerçek işleyişini açıklayan 4 katmanlı bir modeldir.
+-OSI modelinden daha sadedir.
+- **En yaygın** kullanılan modeldir.
+
 
 | Katman No | Katman Adı              | OSI Karşılığı                              | Protokoller                        |
 |-----------|--------------------------|--------------------------------------------|-----------------------------------|
@@ -27,19 +31,8 @@ TCP/IP modeli, internetin gerçek işleyişini açıklayan 4 katmanlı bir model
 | 2         | İnternet (Internet)      | OSI 3. katman                               | IP, ICMP, ARP                     |
 | 1         | Ağ Erişim (Network Access)| OSI 1-2. katmanlar                          | Ethernet, Wi-Fi, MAC             |
 
----
 
-## 🔄 OSI ve TCP/IP Karşılaştırması
 
-| Özellik           | OSI Modeli                     | TCP/IP Modeli                  |
-|-------------------|--------------------------------|--------------------------------|
-| Katman Sayısı     | 7                              | 4                              |
-| Geliştiren        | ISO                             | DARPA                          |
-| Kullanım          | Teorik ve öğretici model       | Gerçek dünyada kullanılan model |
-| Katman Ayırımı    | Daha ayrıntılı                 | Daha sade                      |
-| Protokol Bağımsız | Evet                            | Hayır, belirli protokollere dayanır |
-
----
 
 
 
