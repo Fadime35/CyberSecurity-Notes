@@ -18,6 +18,7 @@
   
 ----
 >**NOT**
-- IP adresi → Cihaz kimliği  
-- Port numarası → Cihazdaki uygulama veya servis kimliği  
-- Doğru port yönetimi, ağ güvenliği ve hizmet sürekliliği için kritik öneme sahiptir.
+>IP adresi → Cihaz kimliği
+>Port numarası → Cihazdaki uygulama veya servis kimliği 
+>Doğru port yönetimi, ağ güvenliği ve hizmet sürekliliği için kritik öneme sahiptir.
+
