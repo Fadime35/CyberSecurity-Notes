@@ -7,6 +7,7 @@ Genellikle **router (yönlendirici)** cihazlar üzerinde çalışır.
 
 ## Amaç:
 - Aynı anda birden fazla cihazın **tek bir genel IP adresi** üzerinden internete çıkmasını sağlar.
+- IP tasarrufu sağlar.
 - **IP adreslerini gizleyerek** güvenliği artırır.
 
 ---
