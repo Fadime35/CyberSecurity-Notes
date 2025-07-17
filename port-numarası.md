@@ -17,7 +17,7 @@
 - Saldırganlar hedef servisleri ve zafiyetleri port numaralarından tespit edebilir, bu yüzden açık ve güvenli port yönetimi önemlidir.
   
 ----
->**NOT**
+>**NOT:**
 >-IP adresi → Cihaz kimliği
 >-Port numarası → Cihazdaki uygulama veya servis kimliği 
 >-Doğru port yönetimi, ağ güvenliği ve hizmet sürekliliği için kritik öneme sahiptir.
