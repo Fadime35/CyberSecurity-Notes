@@ -15,7 +15,8 @@
 - Aynı IP adresine sahip cihazda farklı servislerin eşzamanlı çalışmasını mümkün kılar.
 - Güvenlik duvarları ve ağ cihazları, port numaralarına göre trafik filtrelemesi yaparak güvenliği artırır.
 - Saldırganlar hedef servisleri ve zafiyetleri port numaralarından tespit edebilir, bu yüzden açık ve güvenli port yönetimi önemlidir.
-
+  
+----
 >**NOT**
 - IP adresi → Cihaz kimliği  
 - Port numarası → Cihazdaki uygulama veya servis kimliği  
