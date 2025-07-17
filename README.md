@@ -1,16 +1,14 @@
-# SOC Analyst Olma Yolculuğu
+# SOC Analyst Learning Journey
 
-Bu depo, Security Operations Center (SOC) Analyst olma yolculuğuma ait notları ve kaynakları içermektedir.
+This repository contains notes and resources related to my journey toward becoming a Security Operations Center (SOC) Analyst.
 
-## İçerik Başlıkları
+## Contents
 
-- Siber güvenliğin temel kavramları  
-- SOC ortamlarında kullanılan araçlar (SIEM, Wireshark, Splunk vb.)  
-- Temel ağ protokolleri ve katmanları (TCP/IP, HTTP, DNS vb.)  
-- Log analizi ve olay müdahalesi notları  
-- Mülakat hazırlığına yönelik özet bilgiler
+- Cybersecurity fundamentals  
+- Tools commonly used in SOC environments (e.g., SIEM, Wireshark, Splunk)  
+- Basic network protocols and layers (TCP/IP, HTTP, DNS, etc.)  
+- Log analysis and incident response notes  
+- Interview preparation summaries
 
----
 
-Bu notlar sade, anlaşılır ve offline çalışmaya uygundur.  
-Kendini SOC Analyst olarak geliştirmek isteyen herkes için kaynak niteliğindedir.
+
