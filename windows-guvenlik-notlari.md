@@ -77,7 +77,7 @@ Tehdit tespiti, kötü amaçlı yazılım analizi ve sistem güvenliği değerle
 
 Örneğin; şüpheli bir portun açık olup olmadığını netstat, oturumu açan kullanıcıyı whoami, veya sistem olaylarını eventvwr.msc ile hızlıca tespit edebilirler.
 
-Bu nedenle, bir SOC analyst için Windows işletim sisteminin temel güvenlik yapı taşlarını bilmek vazgeçilmezdir.
+Bu nedenle, SOC analyst’lerin  Windows işletim sistemindeki temel güvenlik unsurlarını iyi bilmesi kritik önem taşır.
 
 ---
 
