@@ -25,14 +25,14 @@ Windows Güvenlik Duvarı, cihaza gelen ve giden ağ trafiğini kontrol ederek z
 - GUI ile yönetim: `wf.msc`  
 - Komut satırı(CLI-Command Line Interface) ile yönetim: `netsh advfirewall` 
 
-*Not: Güvenlik duvarı, dış saldırıları engellemek için ilk savunma hattıdır.*
+**Not:**  Güvenlik duvarı, dış saldırıları engellemek için ilk savunma hattıdır.
 
 ---
 
 ### UAC – Kullanıcı Hesabı Denetimi  
 Sistem üzerinde değişiklik yapılmadan önce kullanıcıdan onay isteyen güvenlik özelliğidir.  
 
-*Not: Yüksek izin gerektiren işlemlerde ekran kararıp “izin ver” sorusu çıkar.*
+**Not:**  Yüksek izin gerektiren işlemlerde ekran kararıp “izin ver” sorusu çıkar.
 
 ---
 
@@ -40,7 +40,7 @@ Sistem üzerinde değişiklik yapılmadan önce kullanıcıdan onay isteyen güv
 Sabit diskin tamamını şifreleyen güvenlik aracıdır.  
 - TPM (Trusted Platform Module) destekliyse daha güvenlidir.  
 
-*Not: Fiziksel olarak disk ele geçirilse bile veriler okunamaz.*
+**Not:** Fiziksel olarak disk ele geçirilse bile veriler okunamaz.
 
 
 ---
@@ -54,7 +54,7 @@ Sabit diskin tamamını şifreleyen güvenlik aracıdır.
 | `whoami`           | Hangi kullanıcı tarafından oturum açıldığını gösterir.  |
 | `eventvwr.msc`     | Olay Günlüğü Görüntüleyicisini açar.  |
 
-*Not: Bu komutlar, temel sistem gözlemi ve analizleri için kullanılır.*
+**Not:** Bu komutlar, temel sistem gözlemi ve analizleri için kullanılır.
 
 ---
 
@@ -65,7 +65,7 @@ Sabit diskin tamamını şifreleyen güvenlik aracıdır.
 - **Wireshark**: Ağ trafiğini gerçek zamanlı analiz eder.  
 - **Event Viewer**: Sistem loglarını (günlüklerini) görüntüler.  
 
- *Not: Bu araçların çoğu, siber güvenlik analistleri tarafından aktif olarak kullanılır.*
+ **Not:** Bu araçların çoğu, siber güvenlik analistleri tarafından aktif olarak kullanılır.
 
 ---
 
@@ -78,6 +78,7 @@ Tehdit tespiti, kötü amaçlı yazılım analizi ve sistem güvenliği değerle
 Örneğin; şüpheli bir portun açık olup olmadığını netstat, oturumu açan kullanıcıyı whoami, veya sistem olaylarını eventvwr.msc ile hızlıca tespit edebilirler.
 
 Bu nedenle, bir SOC analyst için Windows işletim sisteminin temel güvenlik yapı taşlarını bilmek vazgeçilmezdir.
+
 ---
 
 
