@@ -36,7 +36,7 @@
 - **BT altyapı ekibi** ve **siber güvenlik uzmanları** birlikte çalışır.
 - Yedeklemenin güncel ve doğruluğu kritik önemdedir.
 
-## Gerekirse Siber Güvenlik Uzmanlarına Başvur!
+## Siber Güvenlik Uzmanlarına Başvur!
 - Karmaşık saldırılar için profesyonel destek alınır.
 - Olayın adli bilişim analizi ve iyileştirme süreci bu uzmanlar tarafından yürütülür.
 
