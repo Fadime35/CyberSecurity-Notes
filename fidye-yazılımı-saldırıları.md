@@ -44,7 +44,6 @@
 
 **NOT**
 - Bu süreçler genellikle **Siber Güvenlik Operasyonları (SOC), Olay Müdahale (Incident Response)** ve **BT altyapı ekiplerinin iş birliğiyle** yürütülür.  
-Dolayısıyla, özellikle olay müdahale ve analiz rolleri için “bir siber güvenlikçinin” sorumluluğundadır.
 - Fidye yazılımlarıyla mücadelede en kritik adım **önlem almak ve yedeklemektir!**
 ---
 
