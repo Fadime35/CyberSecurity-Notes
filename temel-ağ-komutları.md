@@ -1,35 +1,41 @@
-# Temel Ağ  Komutları
+# Temel Ağ Komutları
 
 ## 1. `ping`
-Bir hedef sistemin (IP ya da domain) ağda erişilebilir olup olmadığını test etmek için kullanılır. ICMP Echo paketleri gönderir ve cevap sürelerini ölçer. Paket kaybı ya da gecikme gibi durumları analiz etmede faydalıdır.
+Bir hedef sistemin (IP ya da domain) ağda erişilebilir olup olmadığını test etmek için kullanılır. ICMP Echo paketleri gönderir ve yanıt sürelerini ölçer. Paket kaybı veya ağ gecikmesi gibi sorunları analiz etmede kullanılır.
 
 **Örnek:**
-- ping 192.168.1.157 
-- ping www.google.com
+- `ping 192.168.1.157`  
+- `ping www.google.com`
 
 ---
 
 ## 2. `tracert` / `traceroute`
-Bir paketin hedefe ulaşana kadar geçtiği tüm router (yönlendirici) noktalarını gösterir. Her bir atlama için gecikme süresi de listelenir. Ağdaki darboğaz veya kopmaların hangi noktada olduğunu anlamak için kullanılır.
+Bir paketin hedefe ulaşana kadar geçtiği tüm yönlendirici (router) noktalarını listeler. Her atlamada oluşan gecikmeleri gösterir. Ağ üzerindeki kopma veya yavaşlamanın hangi noktada olduğunu tespit etmek için kullanılır.
 
-**Örnek:** 
-- tracert google.com      # Windows
-- traceroute google.com   # Linux/macOS
+**Örnek:**  
+- `tracert google.com` *(Windows)*  
+- `traceroute google.com` *(Linux/macOS)*
 
-  ---
+---
 
 ## 3. `netstat`
-Ağ bağlantıları, açık portlar ve hangi uygulamanın hangi portu kullandığı gibi bilgileri gösterir. Sistem üzerinde aktif olan TCP/UDP bağlantılarını analiz etmek için kullanılır. Şüpheli bağlantıları tespit etmekte de işe yarar.
+Ağ bağlantılarını, açık portları ve hangi uygulamanın hangi portu kullandığını gösterir. TCP/UDP bağlantıları analiz etmek, açık portları görmek ve şüpheli bağlantıları tespit etmek için kullanılır.
 
 ---
 
 ## 4. `nslookup`
-Alan adlarının IP adresine (veya tersine) çözümünü yapmak için kullanılan bir DNS sorgulama aracıdır. DNS sorunlarını tanımlamak veya hangi DNS kaynağından yanıt alındığını görmek için kullanılır.
+Bir alan adının IP adresine veya IP adresinin alan adına çevrilmesini sağlar. DNS sunucusunun verdiği yanıtları gösterir. DNS sorunlarını tanılamak ve sorgulama testleri yapmak için kullanılır.
+
+**Örnek:**  
+- `nslookup google.com`
 
 ---
 
 ## 5. `ipconfig` / `ifconfig`
-`ipconfig` Windows’ta, `ifconfig` ise Linux/macOS’ta kullanılır. Ağ arayüzlerinin IP adresi, alt ağ maskesi ve varsayılan ağ geçidi gibi bilgilerini gösterir. 
+- `ipconfig` → Windows sistemlerde  
+- `ifconfig` → Linux/macOS sistemlerde kullanılır.
 
+Ağ arayüzlerine ait IP adresi, alt ağ maskesi, ağ geçidi gibi bilgileri görüntülemek için kullanılır. Ayrıca `ipconfig /release` ve `ipconfig /renew` gibi parametrelerle IP yenileme işlemleri de yapılabilir.
 
-
+---
+**NOT:**  *Bu komutlar, temel ağ yapılandırması ve sorun giderme işlemlerinde hızlı analiz imkânı sağlar. Mülakatlarda sıkça sorulan ve uygulamada da aktif olarak kullanılan komutlardır.*
