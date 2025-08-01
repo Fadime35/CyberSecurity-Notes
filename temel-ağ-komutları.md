@@ -39,4 +39,5 @@ Ağ arayüzlerine ait IP adresi, alt ağ maskesi, ağ geçidi gibi bilgileri gö
 
 ---
 **NOT:** 
+
 *Bu komutlar, temel ağ yapılandırması ve sorun giderme işlemlerinde hızlı analiz imkânı sağlar. Mülakatlarda sıkça sorulan ve uygulamada da aktif olarak kullanılan komutlardır.*
