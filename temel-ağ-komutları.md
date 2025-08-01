@@ -5,7 +5,7 @@ Bir hedef sistemin (IP ya da domain) ağda erişilebilir olup olmadığını tes
 
 **Örnek:**
 - ping 192.168.1.157 
-- ping 'www.google.com'
+- ping www.google.com
 
 ---
 
