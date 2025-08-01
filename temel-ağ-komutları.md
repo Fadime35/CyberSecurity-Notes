@@ -38,4 +38,5 @@ Bir alan adının IP adresine veya IP adresinin alan adına çevrilmesini sağla
 Ağ arayüzlerine ait IP adresi, alt ağ maskesi, ağ geçidi gibi bilgileri görüntülemek için kullanılır. Ayrıca `ipconfig /release` ve `ipconfig /renew` gibi parametrelerle IP yenileme işlemleri de yapılabilir.
 
 ---
-**NOT:**  *Bu komutlar, temel ağ yapılandırması ve sorun giderme işlemlerinde hızlı analiz imkânı sağlar. Mülakatlarda sıkça sorulan ve uygulamada da aktif olarak kullanılan komutlardır.*
+**NOT:** 
+*Bu komutlar, temel ağ yapılandırması ve sorun giderme işlemlerinde hızlı analiz imkânı sağlar. Mülakatlarda sıkça sorulan ve uygulamada da aktif olarak kullanılan komutlardır.*
