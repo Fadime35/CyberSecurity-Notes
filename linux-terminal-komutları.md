@@ -1,5 +1,4 @@
-# Linux Terminal Temel Komutları - Mülakat Notları
-
+# Linux Terminal Komutları 
 ## 1. `ls` – Listeleme
 - Dizin içeriğini listeler.
 - `ls -l` → Detaylı listeleme  
