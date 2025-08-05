@@ -100,7 +100,7 @@ Her kullanıcı grubu için 3 tip izin vardır:
 
 
 $ ls -l script.sh
--rwxr-xr-- 1 username users 1234 Aug 5 10:30 script.sh 
+- rwxr-xr-- 1 username users 1234 Aug 5 10:30 script.sh 
 ---
 
 
