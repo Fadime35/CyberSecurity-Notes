@@ -106,13 +106,13 @@ $ ls -l script.sh
 
 | Bölüm | Açıklama                  |
 |---------|---------------------------|
-| -    |  İzin yok                  |
-| rwx  | Sadece çalıştırma          |
-|  r-x  | Sadece yazma              |
-| r--   | Yazma + çalıştırma        |
-|   1  | Sadece okuma              |
-|  username   | Okuma + çalıştırma        |
-| users    |Okuma + yazma             |
-| 1234    |  Okuma + yazma + çalıştırma|
-| Aug 5 10.30    |  Okuma + yazma + çalıştırma|
-| script.sh   |  Okuma + yazma + çalıştırma|
+| -    | Normal dosya                 |
+| rwx  | Kullanıcı izinleri: okuma, yazma, çalıştırma |
+|  r-x  | Grup izinleri: okuma, çalıştırma  |
+| r--   | 	Diğer kullanıcı izinleri: sadece okuma  |
+|   1  |	Bağlantı sayısı      |
+|  username   | 	Dosya sahibi |
+| users    |Grup adı |
+| 1234    |Dosya boyutu (byte)
+| Aug 5 10:30    | Son değiştirilme tarihi|
+| script.sh   | Dosya adı|
