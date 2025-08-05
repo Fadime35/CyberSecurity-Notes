@@ -65,19 +65,31 @@
 - Değişkenlerle kullanılır: `echo $HOME`
 
 ## 17. `cp` – Dosya Kopyalama
-- `cp kaynak hedef` → Dosya kopyalar  
-- `cp dosya.txt /hedef/klasör/`
+- Bir dosyayı başka bir konuma veya aynı dizinde farklı isimle kopyalar.
+- **Kullanım:**
+  - `cp kaynak.txt /hedef/dizin/`
+  - `cp belge.txt kopya.txt`
+- **Parametreler:**
+  - `-i` → Üzerine yazmadan önce sorar.
+  - `-u` → Sadece yeni olan dosyaları kopyalar.
+  - `-v` → Kopyalama işlemini gösterir.
 
-## 18. `cp -r` – Klasör Kopyalama
-- `cp -r kaynak_klasör hedef_klasör`  
-- Alt klasör ve dosyalarla birlikte kopyalar.
+## 18. `cp -r` – Klasör Kopyalama (Recursive)
+- **Amaç:** Klasörü tüm içeriğiyle birlikte kopyalar.
+- **Kullanım:**
+  - `cp -r proje/ /yedek/`
+  - `cp -r A B` → A klasörünü B adıyla kopyalar.
+- **Parametre:**
+  - `-r` → Alt klasörleriyle birlikte kopyalama (zorunlu).
+  - `-v` → İşlemleri ekranda gösterir.
 
 ---
 
-## Ekstra Bilgiler:
+## NOT:
 - `man komut_adı` → Komutun kılavuzunu açar  
 - `komut --help` → Yardım sayfası gösterir  
-- Komutlar log analizi, sistem yönetimi ve güvenlik takibi için temeldir.
+- Bu komutlar log analizi, sistem yönetimi ve temel Linux bilgisi için kritiktir.
+
 
 
 
