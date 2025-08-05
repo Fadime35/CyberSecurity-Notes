@@ -51,7 +51,7 @@ Her kullanıcı grubu için 3 tip izin vardır:
 | w     | Yazma izni (write) |
 | x     | Çalıştırma izni (execute) |
 
-### 3.1 İzinlerin Görünümü
+### İzinlerin Görünümü
 
 `ls -l` komutu ile dosya izinleri şöyle görünür:
 
@@ -62,7 +62,7 @@ Her kullanıcı grubu için 3 tip izin vardır:
 - Sonraki 3 karakter grup izinleri (r-x)
 - Son 3 karakter diğer kullanıcı izinleri (r--)
 
-### 3.2 Sayısal (Octal) İzin Gösterimi
+### Sayısal (Octal) İzin Gösterimi
 
 İzinler 3 basamaklı sayılarla da gösterilir, her basamak 0-7 arasında olur:
 
