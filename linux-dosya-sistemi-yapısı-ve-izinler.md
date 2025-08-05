@@ -92,15 +92,17 @@ Her kullanıcı grubu için 3 tip izin vardır:
     - `chmod u+x script.sh` (Sahibe çalıştırma izni ekle)
 
 - `chown` : Dosya sahibi ve grubu değiştirir
-  - Örnek: `chown fadime:users file.txt`
+  - Örnek: `chown username:users file.txt`
 
 - `ls -l` : Dosya izinlerini ve sahip bilgilerini gösterir
 
 ## 5. Örnek
 
-```bash
+
 $ ls -l script.sh
--rwxr-xr-- 1 fadime users 1234 Aug 5 10:30 script.sh
+-rwxr-xr-- 1 username users 1234 Aug 5 10:30 script.sh 
+---
+
 
 | Bölüm | Açıklama                  |
 |---------|---------------------------|
@@ -109,7 +111,7 @@ $ ls -l script.sh
 |  r-x  | Sadece yazma              |
 | r--   | Yazma + çalıştırma        |
 |   1  | Sadece okuma              |
-|  fadime   | Okuma + çalıştırma        |
+|  username   | Okuma + çalıştırma        |
 | users    |Okuma + yazma             |
 | 1234    |  Okuma + yazma + çalıştırma|
 | Aug 5 10.30    |  Okuma + yazma + çalıştırma|
