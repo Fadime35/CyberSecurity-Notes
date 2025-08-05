@@ -21,7 +21,23 @@
 | `/mnt` `/media` | Harici diskler/aygıtlar için bağlama noktaları.  |
 
 ---
-
+/
+├── bin/ # Temel kullanıcı komutları (ls, cp, mv vb.)
+├── boot/ # Önyükleme dosyaları (kernel vb.)
+├── dev/ # Donanım cihaz dosyaları
+├── etc/ # Sistem yapılandırma dosyaları
+├── home/ # Kullanıcıların kişisel dizinleri
+├── lib/ # Paylaşılan kütüphaneler
+├── media/ # Çıkarılabilir medya için bağlama noktaları
+├── mnt/ # Geçici bağlama noktaları
+├── opt/ # Opsiyonel yazılımlar
+├── proc/ # Çekirdek ve süreç bilgileri (sanal dosya sistemi)
+├── root/ # Root kullanıcısının ev dizini
+├── sbin/ # Sistem yöneticisi komutları
+├── srv/ # Hizmetlere ait veri dosyaları
+├── tmp/ # Geçici dosyalar
+├── usr/ # Kullanıcı programları ve dosyaları
+└── var/ # Değişken veri dosyaları (log, spool vb.)
 ## 2. Dosya ve Dizin İzinleri
 
 ### İzin Türleri:
