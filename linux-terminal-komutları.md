@@ -94,35 +94,31 @@
   - `sudo su` → Root kullanıcı olur.
   - `exit` → Normal kullanıcıya geri döner.
 
-## 16. `echo` – Terminale veya Dosyaya Yazı Yazdırma
-- Yazıyı terminale veya dosyaya gönderir.
-- Sık Kullanım:
-  - `echo "Merhaba"` → Terminale yazar.
-  - `echo $HOME` → Değişken değeri yazar.
-  - `echo "deneme" > dosya.txt` → Dosyaya yazar (varsa üzerine yazar).
+## 16. `echo` – Yazı Yazdırma
+- Terminale veya dosyaya metin yazmak için kullanılır.
 
-## 17. `cp` – Dosya Kopyalama
-- Dosyaları başka konuma veya başka adla kopyalar.
-- Sık Kullanım:
-  - `cp belge.txt /hedef/klasör/` → Dosyayı hedefe kopyalar.
-  - `cp belge.txt yedek.txt` → Aynı dizinde kopya oluşturur.
-  - Parametreler:
-    - `-i` → Üzerine yazmadan önce sorar.
-    - `-u` → Sadece güncel dosyayı kopyalar.
-    - `-v` → İşlemi detaylı gösterir.
+- `echo "Merhaba"` → Terminale yazar.  
+- `echo $HOME` → Değişkenin değerini gösterir.  
+- `echo "Deneme" > dosya.txt` → Dosyaya yazar, varsa içeriği siler.  
+- `echo "Yeni satır" >> dosya.txt` → Dosyanın sonuna ekler.
 
-## 18. `cp -r` – Klasör Kopyalama (Recursive)
-- Bir klasörü tüm içeriğiyle birlikte kopyalar.
-- Sık Kullanım:
-  - `cp -r proje/ /yedek/` → Proje klasörünü yedeğe kopyalar.
-  - `cp -r A B` → `A` klasörünü `B` adıyla çoğaltır.
-  - Parametreler:
-    - `-r` → Alt dizinlerle birlikte kopyalar.
-    - `-v` → Detaylı gösterim sağlar.
+## 17. `cp` – Dosya/Klasör Kopyalama
+- Dosya veya klasörleri başka konuma kopyalar.
+
+- `cp dosya.txt /hedef/` → Dosya kopyalar.  
+- `cp dosya1.txt dosya2.txt` → Aynı dizinde kopya oluşturur.  
+- `cp -r klasör/ /hedef/` → Klasörü içeriğiyle birlikte kopyalar.
+
+**Parametreler:**
+- `-r` → Klasör kopyalamak için gerekir.  
+- `-i` → Üzerine yazmadan önce onay ister.  
+- `-v` → Kopyalama işlemini terminalde gösterir.  
+- `-u` → Sadece kaynak dosya hedeften daha yeniyse kopyalar.
+
 
 ---
 
-## Ekstra İpuçları:
+## NOT:
 - Kombinasyon:  
   - `cat dosya.txt | grep "hata"` → Dosyada "hata" geçen satırları bulur.  
   - `tail -f /var/log/syslog` → Canlı log izleme  
